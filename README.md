@@ -1,4 +1,4 @@
-This notebook contains three datasets that are available on the city of Chicago's Data Portal:
+# This notebook contains three datasets that are available on the city of Chicago's Data Portal:
 
 1 - Socioeconomic Indicators in Chicago,
 2 - Chicago Public Schools,
